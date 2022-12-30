@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFF4E0;
+    background: #7E7ED7;
+    border-radius: 15px;
+}
+.text{
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}

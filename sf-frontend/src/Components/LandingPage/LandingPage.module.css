@@ -1,0 +1,40 @@
+body {
+  background: #000235;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 10vh;
+  background-image: url(./assets/Ellipse\ 1.svg), url(./assets/Ellipse\ 2.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 100% 100%, 100% 100%;
+}
+.content {
+  padding-left: 20vw;
+  width: 60vw;
+}
+.heading {
+  color: #ffffff;
+  margin-top: 18vh;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 5rem;
+  line-height: 101%;
+}
+.content p {
+  color: #ffffff;
+}
+.img {
+  margin-left: 2rem;
+  padding-left: 2rem;
+  padding-right: 5vw;
+  padding-top: 2rem;
+}
+img {
+  width: 50vw;
+  height: 60vh;
+}

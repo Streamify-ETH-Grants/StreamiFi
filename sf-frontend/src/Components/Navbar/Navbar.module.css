@@ -1,0 +1,26 @@
+.container {
+  /* position: absolute; */
+  /* left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%; */
+  background: #000235;
+  display: flex;
+  justify-content: space-between;
+}
+.container h2 {
+  color: #ffffff;
+  font-size: 1.5rem;
+  margin-left: 3rem;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: auto 3rem;
+    width: 45vh;
+}
+.box a{
+    text-decoration: none;
+    color: #FFF4E0;
+}
